@@ -1,0 +1,88 @@
+/*
+	Inserta tu CSS aqui
+*/
+
+
+
+
+.caja{
+    background-image: url(../img/grupal.jpg);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.botonuno{
+     font-size:12px;
+        font-family: 'Open Sans', sans-serif;
+        position: relative;
+        color:white;
+        background:#FCBF14;
+        border:0px;
+        width:98px;
+        height:42px;
+       
+}
+
+.boton{
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+
+.menu ul{
+    list-style: none;
+    text-align: center;
+    margin-top: 40px;
+    
+   
+}
+
+.menu ul li {
+    display: inline-block;
+    text-align: center;
+    margin-left: 20px;
+   }
+
+
+.menu ul li a{
+     text-decoration: none;
+     color: black;
+     font-family: 'Open Sans', sans-serif;
+  
+    
+}
+
+
+.fotos {
+    background: white;
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+.fotos img{
+    width: 100%;
+    height: 200px;
+    
+}
+
+footer{
+    background-color: dimgray;
+    padding: 30px;
+}
+
+.final div{
+    display: inline-block;
+    margin-left: 20px;
+    color: white;
+    border-right: 1px solid white;
+    padding: 5px;
+}
+
+
+    
+    
